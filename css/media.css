@@ -1,0 +1,22 @@
+@media(max-width:575px){
+    .top_logo {
+        width: 100%;
+        text-align: center;
+    }
+    .top_item {
+        display: flex;
+        align-items: center;
+        text-transform: capitalize;
+        width: 31%;
+    }
+    .top_content {
+        display: flex;
+        justify-content: space-between;
+    }
+    .top_item h5 {
+        font-size: 13px;
+    }
+    .top_item p {
+        font-size: 13px;
+    }
+}
